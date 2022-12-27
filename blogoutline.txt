@@ -1,0 +1,33 @@
+2022 CVE Data Review
+
+Intro: 
+Number Of CVEs
+Top 10 Publishing Days
+Publishing Day of Week
+Publishing Month
+
+Growth:
+Total Number of CVEs
+Percentage of CVEs Published
+Grotwh Year Over Year
+
+CVE Identifiers:
+Per Identifier Year
+Oldest Identifier Used
+
+CNA Data:
+Top Publisher
+Who Didnt Publish
+
+CPE Data: 
+Top CPE
+
+CVSS Data: 
+Average
+Median
+Lowest Score
+Highest Score (Number of CVES)
+
+
+Notes:
+Remove any CVEs that are **Rejected**
