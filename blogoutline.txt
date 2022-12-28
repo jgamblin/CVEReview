@@ -19,13 +19,17 @@ CNA Data:
 Top Publisher
 Who Didnt Publish
 
+CWE Data:
+Top CWE
+Unique CWE
+
 CPE Data: 
 Top CPE
 
 CVSS Data: 
 Average
 Median
-Lowest Score
+Lowest Score (Number of CVES)
 Highest Score (Number of CVES)
 
 
